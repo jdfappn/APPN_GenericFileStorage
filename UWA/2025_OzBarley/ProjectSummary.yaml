@@ -1,7 +1,7 @@
 project:
   ShortName: 2025_OzBarley
   FullName: ''
-  description: ''
+  description: UWA_2025_OzBarley
   start_date: ''
   end_date: ''
   funding_source: ''
@@ -17,12 +17,13 @@ project:
     role: Principal Investigator
     orcid: ''
   sites:
-  - name: ''
-    year: -9999
+  - name: York_F
+    year: 2025
     season: ''
     SubLocation: ''
     latitude: .nan
     longitude: .nan
     description: ''
     ControlledEnvironment: null
-    sensors: []
+    sensors:
+    - GOBI: 1
