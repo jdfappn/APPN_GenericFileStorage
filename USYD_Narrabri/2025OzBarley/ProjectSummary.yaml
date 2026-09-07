@@ -17,12 +17,13 @@ project:
     role: Principal Investigator
     orcid: ''
   sites:
-  - name: ''
-    year: -9999
+  - name: USYD_Narrabri
+    year: 2025
     season: ''
     SubLocation: ''
     latitude: .nan
     longitude: .nan
     description: ''
     ControlledEnvironment: null
-    sensors: []
+    sensors:
+    - GOBI: 1
