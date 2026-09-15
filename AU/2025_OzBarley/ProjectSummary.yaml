@@ -1,6 +1,6 @@
 project:
   ShortName: 2025_OzBarley
-  FullName: ''
+  FullName: AU_2025_OzBarley
   description: ''
   start_date: ''
   end_date: ''
@@ -17,12 +17,13 @@ project:
     role: Principal Investigator
     orcid: ''
   sites:
-  - name: ''
-    year: -9999
+  - name: Roseworthy
+    year: 2025
     season: ''
     SubLocation: ''
     latitude: .nan
     longitude: .nan
     description: ''
     ControlledEnvironment: null
-    sensors: []
+    sensors:
+    - GOBI: 1
